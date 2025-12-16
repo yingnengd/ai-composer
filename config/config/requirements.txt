@@ -1,3 +1,0 @@
-music21
-numpy
-#（Transformer 相关你后面自己加）
